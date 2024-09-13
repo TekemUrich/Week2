@@ -1,0 +1,38 @@
+p{
+    color: purple;
+    background-color: red;
+}
+h1{
+    color: red;
+    background-color: greenyellow;
+}
+p2{
+    background-color: blue;
+}
+image{
+    background-color: blue;
+}
+input{
+    color: blue;
+    background-color: orange;
+}
+table{
+    color: green;
+    background-color: hotpink;
+}
+form{
+    color: red;
+    background-color: blanchedalmond;
+}
+img{
+    height: 450px;
+    width: 400px;
+}
+image{
+    background: brown;
+    color: orangered;
+}
+ul{
+    color: brown;
+    background-color: yellow;
+}
